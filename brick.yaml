@@ -1,4 +1,4 @@
-name: my_template
+name: my_flutter_template
 description: A new brick created with the Mason CLI.
 
 # The following defines the version and build number for your brick.
@@ -24,5 +24,5 @@ vars:
   name:
     type: string
     description: My template flutter file
-    default: my_template
+    default: my_flutter_template
     prompt: What is your project name?
